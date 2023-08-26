@@ -1,0 +1,11 @@
+.not-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.not-found {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 32px;
+}

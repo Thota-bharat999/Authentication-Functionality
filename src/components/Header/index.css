@@ -1,0 +1,12 @@
+.header-container {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+}
+.header {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 18px;
+  margin: 20px;
+}
